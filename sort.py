@@ -1,0 +1,9 @@
+mylist=[22,96,44,88,66]
+mylist.sort()
+print(mylist)
+mylist1=["s","a","p","b","e"]
+mylist1.sort()
+print(mylist1)
+mylist2=[2,4,6,"s","r","b"]
+mylist2.sort()
+print(mylist2)
